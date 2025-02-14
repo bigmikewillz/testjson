@@ -163,6 +163,93 @@
       "surname": "Williams",
       "id": "234234234",
       "firstName": "Michael"
+    },
+    {
+      "displayName": "Michael Fox",
+      "work": {
+        "shortStartDate": "03-01",
+        "startDate": "2025-02-01",
+        "manager": "33242423424",
+        "workPhone": null,
+        "tenureDuration": {
+          "periodISO": "23434234",
+          "sortFactor": 4234,
+          "humanize": "1 years, 1 months and 14 days"
+        },
+        "custom": {
+          "field_1619774915441": null
+        },
+        "durationOfEmployment": {
+          "periodISO": "3123123",
+          "sortFactor": 123123,
+          "humanize": "1 years, 1 months and 1 days"
+        },
+        "reportsToIdInCompany": null,
+        "employeeIdInCompany": null,
+        "reportsTo": {
+          "displayName": "Gunnar Hakonarson",
+          "email": "gunnar.hakonarson@yoti.com",
+          "surname": "Hakonarson",
+          "firstName": "Gunnar",
+          "id": "1232312312"
+        },
+        "workMobile": null,
+        "indirectReports": 2,
+        "department": "Infrastructure Engineering",
+        "siteId": 13123,
+        "tenureDurationYears": 1.1,
+        "customColumns": {
+          "column_1610719505466": "Tech",
+          "column_1610719566994": "23123231",
+          "column_1610719514576": "IT",
+          "column_1610719526459": null,
+          "column_1610719494266": null,
+          "column_1610719573476": null,
+          "column_1721995330135": null,
+          "column_1695212558075": []
+        },
+        "tenureYears": 3,
+        "isManager": true,
+        "title": "IT Manager",
+        "site": "UK",
+        "originalStartDate": "205-02-14",
+        "activeEffectiveDate": "2025-02-14",
+        "directReports": 2,
+        "secondLevelManager": "23234342342",
+        "yearsOfService": 1.1,
+        "daysOfPreviousService": 0
+      },
+      "about": {
+        "foodPreferences": [],
+        "custom": {
+          "field_1685093745671": [
+            "2432423"
+          ],
+          "field_1626094954429": []
+        },
+        "socialData": {
+          "linkedin": "https://www.linkedin.com/in/user",
+          "twitter": null,
+          "facebook": null
+        },
+        "superpowers": [
+          "time travel"
+        ],
+        "hobbies": [
+          "motocycles",
+          "music",
+          "home automation",
+          "gaming",
+          "playing football"
+        ],
+        "about": "I am an accomplished.",
+        "avatar": "https://somemediafile"
+      },
+      "companyId": 24234,
+      "email": "michael.fox@yoti.com",
+      "surname": "Williams",
+      "id": "234234234",
+      "firstName": "Michael"
     }
   ]
 }
